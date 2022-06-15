@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: green;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+}
+.paragraf_2 {color:darkcyan; background-color: rgba(255, 255, 255, 0.5)}
+.novi_blok {
+	background-color: rgba(255, 255, 255, 0.9);
+	padding: 20px;
+	margin: 20px;
+	width:50%;
+}
+}
+h3 {
+	font-family="Constantia", "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: coral;
+}
+
+span {color: #d6cbd3}
+.pozadina{
+	background-image: url("slike/pozadina.jpeg")
+}
+.drugapozadina {
+	background-color: #c4b7a6
+}
+a {
+	color: black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+}
+.trecapozadina{
+	background-color: #d5f4e6
+}
+.cetvrtapozadina{
+	background-color: #bccad6
+}
+a:hover{
+	background-color: darkgray;
+}
+img {
+	height:200px;
+}
